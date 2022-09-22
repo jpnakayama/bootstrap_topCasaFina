@@ -1,6 +1,6 @@
 # [Projeto Bootstrap] HomePage TopCasaFina Arquitetura
 
-Página criada durante o curso de booststrap da ALura
+Página criada durante o curso de booststrap da Alura
 
 Foram utilizados o método Mobile First e a biblioteca Bootstrap para a criação da página responsiva.
 
